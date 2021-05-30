@@ -1,5 +1,5 @@
 .os-phrases h2 {
-	font-family: 'Dosis', 'Lato', sans-serif;
+	font-family: 'Herculanum', 'Lato', sans-serif;
 	font-size: 70px;
 	font-weight: 200;
 	width: 100%;
@@ -85,7 +85,7 @@
 }
 
 .os-phrases h2:nth-child(5) > span > span > span {
-	font-size: 150px;
+	font-size: 70px;
 	-webkit-animation-delay: 21s;
 	-moz-animation-delay: 21s;
 	animation-delay: 21s;
